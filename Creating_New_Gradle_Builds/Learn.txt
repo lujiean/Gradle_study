@@ -1,0 +1,10 @@
+GUIDE: https://guides.gradle.org/creating-new-gradle-builds/
+
+plugins {
+    id "base"
+}
+must set to first of build.gradle
+
+commands:
+./gradle tasks
+./gradle properties

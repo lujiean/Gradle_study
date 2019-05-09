@@ -1,0 +1,6 @@
+Guide: https://guides.gradle.org/creating-build-scans/
+
+git clone https://github.com/gradle/gradle-build-scan-quickstart
+./gradlew build --scan
+
+generate a running report

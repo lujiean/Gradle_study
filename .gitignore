@@ -1,0 +1,10 @@
+# exclude vscode
+.vscode/
+
+# exclude project
+Creating_Build_Scans/gradle-build-scan-quickstart/
+Creating_Multi-project_Builds/creating-multi-project-builds/
+
+# include writing files
+Creating_New_Gradle_Builds/basic-demo/*
+!Creating_New_Gradle_Builds/basic-demo/build.gradle
